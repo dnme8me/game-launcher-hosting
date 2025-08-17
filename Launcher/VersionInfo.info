@@ -1,15 +1,21 @@
-<?xml version="1.0"?>
-<VersionInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <BaseDownloadURL />
+<?xml version="1.0" encoding="utf-8"?>
+<VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaseDownloadURL>https://dnme8me.github.io/game-launcher-hosting/Launcher/</BaseDownloadURL>
+  <Environment>Release</Environment>
+  <AppName />
   <MaintenanceCheckURL />
   <Version>1.0.0</Version>
   <Patches />
-  <InstallerPatch CompressionFormat="NONE" PatchSize="67993600" PatchMd5Hash="0db2d2b8278d1171b739303b7a5ea6f2" DownloadURL="" />
+  <InstallerPatch CompressionFormat="LZMA" PatchSize="0" PatchMd5Hash="" DownloadURL="" />
   <IgnoredPaths>
     <string>*patcher_log.txt</string>
     <string>*output_log.txt</string>
   </IgnoredPaths>
   <CompressionFormat>NONE</CompressionFormat>
-  <Files />
+  <Files>
+    <VersionItem Path="GameLauncher.exe" FileSize="198428998" Md5Hash="010435ac968fe9116fd8a61e7d89bbb0" CompressedFileSize="198428998" CompressedMd5Hash="010435ac968fe9116fd8a61e7d89bbb0" DownloadURL="" />
+    <VersionItem Path="SelfUpdater\SelfPatcher.exe" FileSize="91648" Md5Hash="abefdd3b67cbfd0e6150811f672ac93e" CompressedFileSize="91648" CompressedMd5Hash="abefdd3b67cbfd0e6150811f672ac93e" DownloadURL="" />
+    <VersionItem Path="SelfUpdater\SelfPatcherCore.dll" FileSize="9216" Md5Hash="7d4a1b735a28c19af2590d25edbc3786" CompressedFileSize="9216" CompressedMd5Hash="7d4a1b735a28c19af2590d25edbc3786" DownloadURL="" />
+  </Files>
   <Name>Launcher</Name>
 </VersionInfo>
