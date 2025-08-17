@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BaseDownloadURL>https://dnme8me.github.io/game-launcher-hosting/Launcher/</BaseDownloadURL>
+  <BaseDownloadURL>https://dnme8me.github.io/game-launcher-hosting/</BaseDownloadURL>
   <Environment>Release</Environment>
   <AppName />
   <MaintenanceCheckURL />
