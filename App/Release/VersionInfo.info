@@ -4,7 +4,7 @@
   <MaintenanceCheckURL />
   <Version>1.0.0</Version>
   <Patches />
-  <InstallerPatch CompressionFormat="NONE" PatchSize="67993600" PatchMd5Hash="0db2d2b8278d1171b739303b7a5ea6f2" DownloadURL="" />
+  <InstallerPatch CompressionFormat="NONE" PatchSize="150000" PatchMd5Hash="test" DownloadURL="" />
   <IgnoredPaths>
     <string>*patcher_log.txt</string>
     <string>*output_log.txt</string>
